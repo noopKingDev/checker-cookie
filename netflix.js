@@ -364,7 +364,7 @@ if(currentUrltestOne != 'https://www.netflix.com/browse') {console.log(
     }
 }
 const initializeChecker = new CookieChecker({
-    Directory: "data"
+    Directory: "C:/Users/W10/Downloads/Telegram Desktop/@Inferno_Cloud FREE#80/@Inferno_Cloud FREE#80"
 });
 
 const Folders = await initializeChecker.main();
